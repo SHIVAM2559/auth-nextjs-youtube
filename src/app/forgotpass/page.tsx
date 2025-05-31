@@ -2,11 +2,9 @@
 
 import React, { useState } from "react";
 import  {useEffect}  from "react";
-import Link from "next/link";
 import { useRouter } from "next/navigation";
 import axios from "axios";
 import {toast} from "react-hot-toast";
-import { Router } from "next/router";
 
 
 
